@@ -125,7 +125,7 @@ Marketing leads do not naturally fit a star schema. Instead, an event-driven fun
 No build steps or dependencies required!
 ```bash
 # Clone the repository
-git clone https://github.com/pawangupta3401-art/blank-.git
+git clone https://github.com/pawangupta3401-art/end-to-end-ecommerce-analytics.git
 cd end-to-end-ecommerce-analytics
 
 # Open dashboard in any browser
